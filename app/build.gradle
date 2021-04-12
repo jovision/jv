@@ -1,6 +1,6 @@
 apply plugin: 'com.android.application'
 apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.jvplayer'
+group='com.github.jovision'
 
 android {
     compileSdkVersion 30
