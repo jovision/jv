@@ -8,5 +8,5 @@ allprojects {
 	}
   
   dependencies {
-	        implementation 'com.github.jovision:jvplayer:v1.3'
+	        implementation 'com.github.jovision:jvplayer:v1.3.1'
 	}
